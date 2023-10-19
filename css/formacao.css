@@ -17,7 +17,7 @@
     display: block;
     width: 130px;
     height: 100px;
-    background: url(../img/detalhe.svg) no-repeat center;
+    background: url(../img/detalheazul.svg) no-repeat center;
     position: absolute;
     bottom: -50px;
     left: 20px;
@@ -75,7 +75,7 @@
     display: block;
     width: 4px;
     height: 20px;
-    background: linear-gradient(#b6f829, #67dd0a);
+    background: linear-gradient(#1A6DFF, #C822FF);
     position: absolute;
     left: -24px;
 }
